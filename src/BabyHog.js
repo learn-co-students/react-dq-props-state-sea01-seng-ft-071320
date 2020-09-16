@@ -1,3 +1,4 @@
+
 import React, { Component } from 'react'
 import { Button } from 'semantic-ui-react'
 import normalBaby from './assets/unadulterated-hoglette.png'
@@ -44,4 +45,3 @@ export default class BabyHog extends Component {
       </li>
     )
   }
-}
